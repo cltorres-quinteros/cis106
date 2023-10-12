@@ -30,4 +30,4 @@ Semester: Fall 2023
 | lolcat  | Rainbow coloring effect for text console display using a cat.                                     |
 | figlet  | Display large characters made up of ordinary screen characters.                                   |
 | toilet  | Display large colorful characters.                                                                |
-| rig     | Random Identity Generator that random;y chooses a first name, last name, and an accurate address. |
+| rig     | Random Identity Generator that randomly chooses a first name, last name, and an accurate address. |

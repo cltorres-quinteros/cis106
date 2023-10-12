@@ -22,7 +22,7 @@ Semester: Fall 2023
 | Play music          | knowthelist  | 2.3.1-1build1      |
 
 ## Question 4
-| command | what it does                                                                                      |
+| Command | What it does                                                                                      |
 | ------- | ------------------------------------------------------------------------------------------------- |
 | echo    | Displays a line of text and echo strings to standard outputs.                                     |
 | fortune | Prints a random but hopefully interesting truth.                                                  |
